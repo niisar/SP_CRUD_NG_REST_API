@@ -1,0 +1,1 @@
+C:\Users\adminlocal\documents\visual studio 2013\Projects\SP_CRUD_NG_REST_API\SP_CRUD_NG_REST_API\bin\Debug\app.publish\1.0.0.0\SP_CRUD_NG_REST_API.app

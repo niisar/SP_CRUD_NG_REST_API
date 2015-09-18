@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SharePointSiteUrl>http://premiumsp2013/sites/dev/</SharePointSiteUrl>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{C1CDDADD-2546-481F-9697-4EA41081F2FC}">
+        <ProjectStore>
+          <AppInstancePackageModifiedTime>2015-09-18T06:18:08.1024534Z</AppInstancePackageModifiedTime>
+          <AppInstanceId>ad671e4a-a2fc-4eb9-957a-bb75042d7c4d</AppInstanceId>
+        </ProjectStore>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

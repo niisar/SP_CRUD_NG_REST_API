@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Type="ElementManifest" />
+    <ProjectItemFile Source="Templates\people\add.html" Target="Templates\people\" Type="ElementFile" />
+    <ProjectItemFile Source="Templates\people\all.html" Target="Templates\people\" Type="ElementFile" />
+    <ProjectItemFile Source="Templates\people\edit.html" Target="Templates\people\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

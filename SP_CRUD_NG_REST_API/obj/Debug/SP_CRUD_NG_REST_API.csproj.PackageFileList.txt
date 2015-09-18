@@ -1,0 +1,1 @@
+bin\Debug\SP_CRUD_NG_REST_API.wsp

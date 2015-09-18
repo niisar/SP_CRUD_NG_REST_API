@@ -1,0 +1,45 @@
+.all-people table{
+  	font-family: sans-serif;
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #8d8d8d;
+}
+
+.all-people table th{
+	
+  text-align: left;
+  padding: 5px;
+  text-align: center;
+  border-right: 1px solid #8d8d8d;
+}
+
+.all-people table td{
+  font-size: 1.2em;
+  border: 1px solid #8d8d8d;
+  padding: 5px;
+  text-align: center;
+}
+.all-people{
+  margin-top: 17px;
+}
+.add-new-button{
+    background-color: rgb(55, 139, 202);
+  padding: 8px;
+  color: white;
+}
+.add-new-button:visited{
+  color: white;
+}
+.people-app{
+   width: 800px;
+}
+.people-app-table{
+  width: 100%;
+}
+.people-app-table input[type=text], textarea{
+  width: 50%!important;
+}
+
+.people-app-table input[type=button]{
+  margin: 0!important;
+}

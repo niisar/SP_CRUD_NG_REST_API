@@ -1,0 +1,4 @@
+c:\users\adminlocal\documents\visual studio 2013\Projects\SP_CRUD_NG_REST_API\SP_CRUD_NG_REST_API\bin\Debug\SP_CRUD_NG_REST_API.pdb
+c:\users\adminlocal\documents\visual studio 2013\Projects\SP_CRUD_NG_REST_API\SP_CRUD_NG_REST_API\obj\Debug\SP_CRUD_NG_REST_API.dll
+c:\users\adminlocal\documents\visual studio 2013\Projects\SP_CRUD_NG_REST_API\SP_CRUD_NG_REST_API\obj\Debug\SP_CRUD_NG_REST_API.pdb
+C:\Users\adminlocal\documents\visual studio 2013\Projects\SP_CRUD_NG_REST_API\SP_CRUD_NG_REST_API\obj\Debug\SP_CRUD_NG_REST_API.csprojResolveAssemblyReference.cache

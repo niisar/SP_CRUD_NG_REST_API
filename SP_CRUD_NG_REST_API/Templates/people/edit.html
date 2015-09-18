@@ -1,0 +1,20 @@
+﻿<h2>Edit</h2>
+<hr>
+<table class="people-app-table">
+    <tr>
+        <td>First Name</td>
+        <td><input type="text" data-ng-model="person.firstName"></td>
+    </tr>
+    <tr>
+        <td>Last Name</td>
+        <td><input type="text" data-ng-model="person.lastName"></td>
+    </tr>
+    <tr>
+        <td>Address</td>
+        <td><textarea data-ng-model="person.address"></textarea></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><input type="button" value="Save" data-ng-click="editPerson(person)"></td>
+    </tr>
+</table>
